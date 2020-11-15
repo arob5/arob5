@@ -1,5 +1,5 @@
 ### Overview
-Welcome to my GitHub! Please see the descriptions below for my personal projects, in addition to links to the relevant repositories. 
+Welcome to my GitHub! Please see below for descriptions of my personal projects, in addition to links to the relevant repositories containing code and papers. 
 
 <!--
 **arob5/arob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
