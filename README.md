@@ -15,6 +15,9 @@ For an undergraduate senior year elective, I wrote a research proposal for an ec
 ## [Principal Component Analysis used for Image Compression](https://github.com/arob5/PCA-Image-Compression.git)
 Here I apply PCA to the well-known Olivetti faces dataset to perform image compression. Accompanying the code is a paper summarizing the methodology and results. 
 
+## [Unsupervised Clustering Analysis on Boston Housing Dataset](https://github.com/arob5/boston-housing-data-clustering-analysis.git)
+I perform an unsupervised analysis on the Boston Housing Dataset using PCA and K-Means. This well-known dataset is typically analyzed via supervised methods, so this analysis serves to look more closely at the stucture of the feature space. Accompanying the code is a paper summarizing the methodology and results.
+
 <!--
 **arob5/arob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
