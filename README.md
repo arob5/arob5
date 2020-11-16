@@ -12,6 +12,9 @@ I implemented a Linear Chain Conditional Random Field from scratch in Scala. Thi
 ## [Climate Change and Malaria Research Proposal](https://github.com/arob5/climate-change-and-malaria-research-proposal.git)
 For an undergraduate senior year elective, I wrote a research proposal for an econometric analysis of the effect of climate change on malaria in Brazil. This proposal was motivated by a literature review of the relevant epidemiologic and economic literature. The data to actually run the proposed analysis exists but is not publicly available.  
 
+## [Principal Component Analysis used for Image Compression](https://github.com/arob5/PCA-Image-Compression.git)
+Here I apply PCA to the well-known Olivetti faces dataset to perform image compression. Accompanying the code is a paper summarizing the methodology and results. 
+
 <!--
 **arob5/arob5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
