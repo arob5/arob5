@@ -6,7 +6,7 @@ Welcome to my GitHub! Please see below for descriptions of my personal projects,
 ## Nearest Positive Definite C++ Implementation
 Most recently, I have been writing an implementation of the R *nearPD()* function in C++. Given an "almost" Positive Definite matrix, this function runs an iterative algorithm that converges to the nearest (in the Frobenius Norm) Positive Definite matrix. One use case is finding the nearest correlation matrix when portions of the original "correlation" matrix may have been calculated using slightly different time periods. The convergence of *nearPD()* may be quite slow for large matrices, which motivates this implementation in C++. I will be adding test files quantifying the speed improvements. 
 
-## Conditional Random Field  
+## [Conditional Random Field](https://github.com/arob5/conditional-random-field.git)  
 I implemented a Linear Chain Conditional Random Field from scratch in Scala. This is a simplified implementation using basic feature functions, not an attempt to compete with the state-of-the-art models currently being used in NLP settings. My CRF implementation is trained on text data and used to label words as nouns, verbs, or adjectives. 
 
 ## [Climate Change and Malaria Research Proposal](https://github.com/arob5/climate-change-and-malaria-research-proposal.git)
