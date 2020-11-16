@@ -9,7 +9,7 @@ Most recently, I have been writing an implementation of the R *nearPD()* functio
 ## Conditional Random Field  
 
 
-## Climate Change and Malaria Research Proposal
+## [Climate Change and Malaria Research Proposal](https://github.com/arob5/climate-change-and-malaria-research-proposal.git)
 For an undergraduate senior year elective, I wrote a research proposal for an econometric analysis of the effect of climate change on malaria in Brazil. This proposal was motivated by a literature review of the relevant epidemiologic and economic literature. The data to actually run the proposed analysis exists but is not publicly available.  
 
 <!--
