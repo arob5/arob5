@@ -3,7 +3,7 @@ Welcome to my GitHub! Please see below for descriptions of my personal projects,
 
 # Projects
 
-## [Nearest Positive Definite C++ Implementation](https://github.com/arob5/nearest-pd-matrix-rcpp.git)
+## [Nearest Positive Definite Matrix C++ Implementation](https://github.com/arob5/nearest-pd-matrix-rcpp.git)
 Most recently, I have been writing an implementation of the R *nearPD()* function in C++. Given an "almost" Positive Definite matrix, this function runs an iterative algorithm that converges to the nearest (in the Frobenius Norm) Positive Definite matrix. One use case is finding the nearest correlation matrix when portions of the original "correlation" matrix may have been calculated using slightly different time periods. The convergence of *nearPD()* may be quite slow for large matrices, which motivates this implementation in C++. I will be adding test files quantifying the speed improvements. 
 
 ## [Conditional Random Field](https://github.com/arob5/conditional-random-field.git)  
