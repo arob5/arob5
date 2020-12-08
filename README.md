@@ -1,8 +1,8 @@
 # Overview
 Welcome to my GitHub! Please see below for descriptions of my personal projects, in addition to links to the relevant repositories containing code and papers. 
 
-[Resume](https://github.com/arob5/resume/blob/main/Andrew%20Roberts%20Resume.pdf)
-[LinkedIn](www.linkedin.com/in/andrew-roberts5)
+[Resume](https://github.com/arob5/resume/blob/main/Andrew%20Roberts%20Resume.pdf)  
+[LinkedIn](https://www.linkedin.com/in/andrew-roberts5/)
 
 # Projects
 
