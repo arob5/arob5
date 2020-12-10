@@ -9,7 +9,7 @@ Welcome to my GitHub! Please see below for descriptions of my personal projects,
 ## [Document Clustering and Topic Modeling: NNMF compared to SVD and K-Means](https://github.com/arob5/document-clustering-and-topic-modeling-paper.git)
 This analysis evaluates the performance of the Non-Negative Matrix Factorization (NNMF) for two NLP tasks: document clustering and topic modeling. The document clustering and topic modeling results are compared to K-Means and the Singular Value Decomposition (SVD), respectively. The code is written in Scala and included is a paper summarizing the methodology and results.  
 
-## [Climate Change and Malaria Research Proposal](https://github.com/arob5/climate-change-and-malaria-research-proposal.git)
+## [Climate Change and Malaria Research Proposal](https://github.com/arob5/climate-change-and-malaria-research-proposal/blob/main/Climate%20Change%20and%20Malaria%20in%20Brazil%20A%20Research%20Proposal.pdf)
 For an undergraduate senior year elective, I wrote a research proposal for an econometric analysis of the effect of climate change on malaria in Brazil. This proposal was motivated by a literature review of the relevant epidemiologic and economic literature. The data to actually run the proposed analysis exists but is not publicly available.
 
 ## [Conditional Random Field](https://github.com/arob5/conditional-random-field.git)  
