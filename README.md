@@ -1,5 +1,3 @@
-[LinkedIn](https://www.linkedin.com/in/andrew-roberts5/)
-
 # Some Course Projects
 
 ## [Document Clustering and Topic Modeling: NNMF compared to SVD and K-Means](https://github.com/arob5/document-clustering-and-topic-modeling-paper.git)
